@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14139555-556a-4bec-ba96-ee52ff9d5b2a" name="Changes" comment="" />
+    <list default="true" id="14139555-556a-4bec-ba96-ee52ff9d5b2a" name="Changes" comment="comment">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="aymen" />
+      </list>
+    </option>
   </component>
   <component name="ProjectId" id="20rAAZLFwMN8yAaGJbvbXqsBkXN" />
   <component name="ProjectViewState">
@@ -28,10 +37,23 @@
       <option name="presentableId" value="Default" />
       <updated>1636792189654</updated>
       <workItem from="1636792190832" duration="9000" />
+      <workItem from="1638280202037" duration="224000" />
     </task>
+    <task id="LOCAL-00001" summary="comment">
+      <created>1638280324083</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1638280324083</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="comment" />
+    <option name="LAST_COMMIT_MESSAGE" value="comment" />
   </component>
 </project>
